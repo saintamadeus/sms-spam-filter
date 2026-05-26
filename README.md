@@ -93,19 +93,4 @@ streamlit run app.py
 | Recall    | 82.55%       |
 | F1 Score  | 90.11%       |
 
----
 
-## Future Improvements
-
-- Deep learning implementation (LSTM/BERT)
-- Email spam detection extension
-- API deployment with Flask/FastAPI
-- Docker containerization
-- Cloud deployment on Render or AWS
-
----
-
-## Author
-
-Final Year Computer Science Project
-Federal University Lokoja
